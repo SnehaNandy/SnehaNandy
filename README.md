@@ -7,7 +7,7 @@
 ## Skills
 - HTML
 - CSS
-- JavaScript (Beginner)
+- JavaScript (Learning)
 
 ## Projects
 - To-Do App (HTML, CSS, JS)
